@@ -37,5 +37,5 @@ print('Made by www.github.com/TimsLab')
 ```
 <div align="center">
   <br>
-  <img width="210" href="https://github.com/TimsLab/vokal-zaehler.git" height="210" alt="Logo" src="https://www.daniel-hauenstein.com/images/weitere_Bilder/download-button-orange.png" />
+  <img width="310" href="https://github.com/TimsLab/vokal-zaehler.git" height="110" alt="Logo" src="https://www.daniel-hauenstein.com/images/weitere_Bilder/download-button-orange.png" />
   <br>
