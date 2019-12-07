@@ -35,6 +35,7 @@ for string in data:
 print('Der Satz hat %s Vokale.' %(vokal))
 print('Made by www.github.com/TimsLab')
 ```
- <a href='https://github.com/TimsLab/vokal-zaehler.git" target="_blank">
-<img  style="center" height="30" weight="30" src="https://www.daniel-hauenstein.com/images/weitere_Bilder/download-button-orange.png"/>
-</a>
+<div align="center">
+  <br>
+  <img width="210" href="https://github.com/TimsLab/vokal-zaehler.git" height="210" alt="Logo" src="https://www.daniel-hauenstein.com/images/weitere_Bilder/download-button-orange.png" />
+  <br>
